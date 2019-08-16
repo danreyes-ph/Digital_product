@@ -1,0 +1,87 @@
+.grids_container{
+  max-width: 900px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.row{
+  display: flex;
+}
+
+.col-1{
+  width: 8.3333333333%;
+}
+
+.col-2{
+  width: 16.6666666666%;
+}
+
+.col-3{
+  width: 24.9999999999%;
+}
+
+.col-4{
+  width: 33.3333333332%;
+}
+
+.col-5{
+  width: 41.6666666665%;
+}
+
+.col-6{
+  width: 49.9999999998%;
+}
+
+.col-7{
+  width: 58.3333333331‬%;
+}
+
+.col-8{
+  width: 66.6666666664%;
+}
+
+.col-9{
+  width: 74.9999999997%;
+}
+
+.col-10{
+  width: 83.333333333%;
+}
+
+.col-11{
+  width: 91.6666666663%;
+}
+
+.col-12{
+  width: 100%;
+}
+
+.col-4, .col-8{
+  width: 100%;
+}
+
+.col-4{
+  margin-top: 30px;
+}
+
+.col-8{
+  margin-top: 160px;
+  padding: 20px;
+}
+
+.col-4, .col-8{
+  max-width: 50%;
+
+}
+
+@media (max-width: 900px) {
+  .row{
+    display: inherit;
+    text-align: center;
+  }
+}
+
+.footer_content{
+  margin-top: 10%;
+}
+/* container>row>column */

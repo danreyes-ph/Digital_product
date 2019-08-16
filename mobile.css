@@ -1,0 +1,44 @@
+@media (max-width: 1200px) {
+
+.products{
+  display: inherit;
+  margin-top: -10%;
+}
+.product{
+  max-height: none;
+  text-align: center;
+  margin: -20%;
+  margin-top: -60%;
+  padding-top: 70%;
+}
+
+.main_section{
+  margin-top: -10%;
+  padding: 20%;
+  font-size: 12px;
+}
+.characts{
+  display: inherit;
+  margin-top: 750px;
+}
+.charact{
+  padding-top: 100px;
+}
+.test_section{
+  margin-top: 970px;
+  font-size: 14px;
+  padding: 15%;
+}
+.testimonials{
+  display: inherit;
+  margin-top: -20px;
+}
+.testimony{
+  text-align: center;
+  padding-top: 200px;
+}
+.footer_section{
+  margin-top: 970px;
+}
+
+}
